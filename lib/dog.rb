@@ -10,7 +10,6 @@
     @breed = breed 
   end 
   
-  
 
   def self.create_table
     sql = <<-SQL
